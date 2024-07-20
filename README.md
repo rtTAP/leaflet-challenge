@@ -37,9 +37,6 @@ In this challenge, we are tasked with leveraging data provided by the United Sta
    - Integrate tectonic plate boundary data from an external source.
    - Allow users to toggle different data layers and base maps.
 
-## Evaluation Criteria:
-- The project will be assessed based on the correctness and functionality of the map, including proper data retrieval, marker customization, and interactive features.
-- Optional enhancements are encouraged but not required for additional points.
 
 By completing this challenge, I have gained practical experience in working with real-world geospatial data, using Leaflet for map-based visualisations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
 """
