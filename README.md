@@ -23,8 +23,8 @@ In this challenge, we are tasked with leveraging data provided by the United Sta
 # 
 
 By completing this challenge, I have gained practical experience in working with real-world geospatial data, using Leaflet for map-based visualisations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
-"""
 
+---
 
 ## Module 15 Mapping Challenge Assignment Directions
 
