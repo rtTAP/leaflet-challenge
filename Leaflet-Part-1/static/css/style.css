@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+#square_legend {
+  display: grid;
+  width: 80px;
+  height: 20px;
+}
+
+#text_legend {
+  padding-left: 30px;
+  margin-left: 20px;
+  background-color: whitesmoke;
+  width: 50px;
+}
+
+.container {
+  width: 120px;
+  height: 30px;
+  background-color: whitesmoke;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 2px;
+}
