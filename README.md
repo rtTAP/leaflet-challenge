@@ -16,9 +16,11 @@ In this challenge, we are tasked with leveraging data provided by the United Sta
    - Implement popups on each marker to display detailed information about each earthquake, including location, magnitude, and depth.
    - Create a legend to help users understand the color-coding of earthquake depths.
 
+## Using this Repository
+ 1. Clone the repository
+ 2. Open the index.html file in your browser
 
-## 
-
+# 
 
 By completing this challenge, I have gained practical experience in working with real-world geospatial data, using Leaflet for map-based visualisations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
 """
