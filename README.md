@@ -1,4 +1,4 @@
-# Overview of Module 15 Challenge
+# Project Overview
 
 In this challenge, we are tasked with leveraging data provided by the United States Geological Survey (USGS) to create an interactive visualisation of recent earthquake activity around the world. The primary goal is to develop a map-based tool that can effectively display earthquake data, helping to inform the public and government organizations about seismic activity.
 
@@ -15,27 +15,7 @@ In this challenge, we are tasked with leveraging data provided by the United Sta
    - Create a legend to help users understand the color-coding of earthquake depths.
 
 
-## Steps to Complete the Challenge:
-1. **Repository Setup:**
-   - Create a new GitHub repository named `leaflet-challenge`.
-   - Clone the repository locally and set up the necessary directory structure.
-
-2. **Map Creation:**
-   - Initialize a Leaflet map centered on the United States with an appropriate zoom level.
-   - Add a tile layer from OpenStreetMap for the map's background.
-
-3. **Data Processing and Visualization:**
-   - Fetch earthquake data in GeoJSON format from the USGS API.
-   - Use the `L.geoJson` method to parse and add this data to the map.
-   - Customize markers to reflect earthquake magnitude and depth.
-
-4. **Interactive Elements:**
-   - Implement popups on markers to display relevant earthquake information.
-   - Add a legend to the map to indicate depth ranges with corresponding colors.
-
-5. **Optional Enhancements:**
-   - Integrate tectonic plate boundary data from an external source.
-   - Allow users to toggle different data layers and base maps.
+## 
 
 
 By completing this challenge, I have gained practical experience in working with real-world geospatial data, using Leaflet for map-based visualisations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
