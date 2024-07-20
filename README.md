@@ -93,4 +93,4 @@ To submit your Challenge assignment, click Submit, and then provide the URL of y
 
 ## References
 
-Dataset created by the [United States Geological Survey](https://example.com).
+Dataset created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
