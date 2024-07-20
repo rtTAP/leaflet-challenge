@@ -1,6 +1,6 @@
 # Overview of Module 15 Challenge
 
-In this challenge, we are tasked with leveraging data provided by the United States Geological Survey (USGS) to create an interactive visualization of recent earthquake activity around the world. The primary goal is to develop a map-based tool that can effectively display earthquake data, helping to inform the public and government organizations about seismic activity.
+In this challenge, we are tasked with leveraging data provided by the United States Geological Survey (USGS) to create an interactive visualisation of recent earthquake activity around the world. The primary goal is to develop a map-based tool that can effectively display earthquake data, helping to inform the public and government organizations about seismic activity.
 
 ## Key Objectives:
 1. **Data Retrieval:**
@@ -14,9 +14,6 @@ In this challenge, we are tasked with leveraging data provided by the United Sta
    - Implement popups on each marker to display detailed information about each earthquake, including location, magnitude, and depth.
    - Create a legend to help users understand the color-coding of earthquake depths.
 
-4. **Advanced Visualization (Optional):**
-   - Enhance the map by overlaying additional data, such as tectonic plate boundaries, to show the relationship between tectonic activity and earthquakes.
-   - Enable the ability to switch between different base maps and data overlays.
 
 ## Steps to Complete the Challenge:
 1. **Repository Setup:**
@@ -44,7 +41,7 @@ In this challenge, we are tasked with leveraging data provided by the United Sta
 - The project will be assessed based on the correctness and functionality of the map, including proper data retrieval, marker customization, and interactive features.
 - Optional enhancements are encouraged but not required for additional points.
 
-By completing this challenge, you will gain practical experience in working with real-world geospatial data, using Leaflet for map-based visualizations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
+By completing this challenge, I have gained practical experience in working with real-world geospatial data, using Leaflet for map-based visualisations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
 """
 
 
