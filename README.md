@@ -1,3 +1,5 @@
+# Earthquake Activity Map Visualisation
+
 # Project Overview
 
 In this challenge, we are tasked with leveraging data provided by the United States Geological Survey (USGS) to create an interactive visualisation of recent earthquake activity around the world. The primary goal is to develop a map-based tool that can effectively display earthquake data, helping to inform the public and government organizations about seismic activity.
