@@ -1,4 +1,4 @@
-# Earthquake Activity Map Visualisation
+# Earthquake Activity Map Visualisation  ![image](https://github.com/user-attachments/assets/ff7dbb0d-18c2-4500-9bef-187d9a7984c8)
 
 # Project Overview
 
