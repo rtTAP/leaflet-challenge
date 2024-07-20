@@ -1,3 +1,52 @@
+# Overview of Module 15 Challenge
+
+In this challenge, we are tasked with leveraging data provided by the United States Geological Survey (USGS) to create an interactive visualization of recent earthquake activity around the world. The primary goal is to develop a map-based tool that can effectively display earthquake data, helping to inform the public and government organizations about seismic activity.
+
+## Key Objectives:
+1. **Data Retrieval:**
+   - Obtain real-time earthquake data from the USGS GeoJSON Feed, which provides updates on seismic activity every five minutes.
+
+2. **Data Visualization:**
+   - Use Leaflet.js, an open-source JavaScript library for interactive maps, to plot earthquake data on a map.
+   - Customize the map to visually represent earthquake magnitudes and depths through marker size and color.
+
+3. **Interactive Features:**
+   - Implement popups on each marker to display detailed information about each earthquake, including location, magnitude, and depth.
+   - Create a legend to help users understand the color-coding of earthquake depths.
+
+4. **Advanced Visualization (Optional):**
+   - Enhance the map by overlaying additional data, such as tectonic plate boundaries, to show the relationship between tectonic activity and earthquakes.
+   - Enable the ability to switch between different base maps and data overlays.
+
+## Steps to Complete the Challenge:
+1. **Repository Setup:**
+   - Create a new GitHub repository named `leaflet-challenge`.
+   - Clone the repository locally and set up the necessary directory structure.
+
+2. **Map Creation:**
+   - Initialize a Leaflet map centered on the United States with an appropriate zoom level.
+   - Add a tile layer from OpenStreetMap for the map's background.
+
+3. **Data Processing and Visualization:**
+   - Fetch earthquake data in GeoJSON format from the USGS API.
+   - Use the `L.geoJson` method to parse and add this data to the map.
+   - Customize markers to reflect earthquake magnitude and depth.
+
+4. **Interactive Elements:**
+   - Implement popups on markers to display relevant earthquake information.
+   - Add a legend to the map to indicate depth ranges with corresponding colors.
+
+5. **Optional Enhancements:**
+   - Integrate tectonic plate boundary data from an external source.
+   - Allow users to toggle different data layers and base maps.
+
+## Evaluation Criteria:
+- The project will be assessed based on the correctness and functionality of the map, including proper data retrieval, marker customization, and interactive features.
+- Optional enhancements are encouraged but not required for additional points.
+
+By completing this challenge, you will gain practical experience in working with real-world geospatial data, using Leaflet for map-based visualizations, and creating interactive web applications that can effectively communicate complex information to a broad audience.
+"""
+
 
 # Module 15 Challenge - Mapping
 
