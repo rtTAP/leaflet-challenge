@@ -15,29 +15,17 @@ The USGS is interested in building a new set of tools that will allow them to vi
 4. This Challenge uses both HTML and JavaScript, so be sure to add all the necessary files. These will be the main files to run for analysis.
 5. Push the above changes to GitHub.
 
-## Files
-
-Download the following files to help you get started:
-
-[Module 15 Challenge files](https://example.com)
-
 ## Instructions
-
-
 ### Create the Earthquake Visualization
-
-![Basic Map](2-BasicMap.png)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 1. **Get your dataset.** To do so, follow these steps:
     - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
-![Data](3-Data.png)
 
     - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-![JSON](4-JSON.png)
 
 2. **Import and visualize the data by doing the following:**
     - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
